@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://klerno-labs.github.io/review-top-ethical-fast-fashion-dresses-under-40/sitemap.xml
